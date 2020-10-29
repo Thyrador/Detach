@@ -8,6 +8,9 @@
 <h3 align=center>Introduction</h3>
 <h4 align=center><b>INFO:</b>This Module is a port of the original MOD created by hinxnz - <a href="https://forum.xda-developers.com/member.php?u=1909299">XDA thread/OP</a> to work as a Magisk module for Android, so all credits to him. :+1:<h4>
 <br />
+
+<b>THIS IS JUST A FORKED REPOSITORY! Please follow <a href="https://github.com/Magisk-Modules-Repo/Detach">xerta555s Detach</a> for original development</b>
+<br />
  
 <h4>:information_source: Short explanation:</h4>
 <h5>With this MOD, you can "detach" app(s) from your Google Play Store automatic update process, it completely hides the update in the "My games and applications" section. So you won't see your detached apps from your Play Store pending updates!
