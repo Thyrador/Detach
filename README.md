@@ -11,6 +11,7 @@
 
 <b>THIS IS JUST A FORKED REPOSITORY! Please follow <a href="https://github.com/Magisk-Modules-Repo/Detach">xerta555s Detach</a> for original development</b>
 <br />
+<br />
  
 <h4>:information_source: Short explanation:</h4>
 <h5>With this MOD, you can "detach" app(s) from your Google Play Store automatic update process, it completely hides the update in the "My games and applications" section. So you won't see your detached apps from your Play Store pending updates!
